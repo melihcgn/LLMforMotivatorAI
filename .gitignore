@@ -15,3 +15,5 @@ __pycache__/
 # Ignore log and temporary files
 *.log
 *.tmp
+
+model_files/model.safetensors
